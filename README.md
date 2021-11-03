@@ -2,13 +2,14 @@
 
 ## Introduction
 Capturing ratings from the reviews is important in these times where a few words have the power to start a revolution. A review, once posted, can make, or break a product – it is important to learn from previous reviews and thus direct a customer’s attention accordingly. Evaluating ratings from customer’s reviews can benefit the organization in the following ways:
-• Become more competitive
-• Attract new customers
-• Retain present customers
-• Sell more products and services
-• Reduce customer servicing
-• Make customers more profitable
-• Improve marketing messages and campaigns
+* Become more competitive
+* Attract new customers
+* Retain present customers
+* Sell more products and services
+* Reduce customer servicing
+* Make customers more profitable
+* Improve marketing messages and campaigns
+
 In this project, we will sift through the reviews in our data set and attempt to gauge what sentiment the customer was expressing by trying to predict the rating a customer would give that product.
 
 ## The Problem Statement:
@@ -28,9 +29,9 @@ The data set consists of the following columns:
 
 ## Conclusion
 
-•	Random Forest classifier with TF-IDF vectorizer outperforms the other classifiers.
-•	Stratified split provides better results than non-stratified.
-•	Feature extraction with PCA didn’t provide good results.
+*	Random Forest classifier with TF-IDF vectorizer outperforms the other classifiers.
+*	Stratified split provides better results than non-stratified.
+*	Feature extraction with PCA didn’t provide good results.
 
 ## References
 
