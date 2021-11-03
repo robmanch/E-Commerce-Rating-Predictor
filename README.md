@@ -1,0 +1,2 @@
+# E-Commerce-Rating-Predictor
+Capturing ratings from the reviews is important in these times where a few words have the power to start a revolution. A review, once posted, can make, or break a product . In this project, we will sift through the reviews in our data set and attempt to gauge what sentiment the customer was expressing by trying to predict the rating a customer would give that product.
